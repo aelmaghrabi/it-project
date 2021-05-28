@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Lato";
+    src: url("../font/Lato/Lato-Light.ttf");
+}
+
+@font-face {
+    font-family: "Lato-Bold";
+    src: url("../font/Lato/Lato-Bold.ttf");
+}
+
+body {
+    font-family: "Lato";
+    font-size: large;
+}
+
+.mySlides {
+    display: none
+}
+
+.w3-content {
+    max-width:50%;
+    margin-top:46px
+}
+
+.w3-bar {
+    text-transform: uppercase;
+}
